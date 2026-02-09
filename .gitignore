@@ -179,3 +179,6 @@ gradle-app.setting
 /src/main/resources/application.yml
 /src/main/resources/application-dve.yml
 /src/main/resources/application-prod.yml
+/src/main/resources/templates/application-prod.yml
+/src/main/resources/templates/application.yml
+/src/main/resources/templates/application-dev.yml
